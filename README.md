@@ -1,4 +1,4 @@
-# product_recommendation
+# Product Recommendation
 
 ## Task 1 in Coding Raja Technologies Internship in Machine Learning
 
